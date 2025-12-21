@@ -31,11 +31,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujankowshik&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujankowshik&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujankowshik&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujankowshik&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujankowshik&theme=github_dark" height="150"/>
+</p>
+
 
 ---
 
@@ -71,12 +76,14 @@
 ## 📫 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/sujankowshikjilla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:sujankowshikjilla@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
 </p>
+
 
 ---
 
