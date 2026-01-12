@@ -30,27 +30,15 @@
 👉 Check my pinned repositories below 👇
 
 ---
-
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sujankowshik&show_icons=true&theme=dark" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=sujankowshik&theme=dark" height="160"/>
-</p>
+- 🔥 Active contributor with consistent weekly commits  
+- 🧠 Focused on full-stack, backend, and ML projects  
+- 📁 Clean, documented repositories  
+- 📈 Regularly shipping features and improvements  
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sujankowshik&layout=compact&theme=dark"/>
-</p>
+👉 View my live activity: https://github.com/sujankowshik
 
-
-
-
----
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujankowshik&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
