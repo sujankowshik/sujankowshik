@@ -27,6 +27,9 @@
     style="max-width:100%;height:auto;" 
   />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujankowshik&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 </div>
 <!-- Alternative with more dynamic animation -->
@@ -54,7 +57,7 @@
 
 
 <div style = "margin-top: 80px; margin-bottom: 80px">
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 
 - 🙌 Github **sujankowshik**
@@ -65,12 +68,7 @@
 
 - ⚡ Fun fact 🙌 **Turning ideas into scalable solutions**
 
-```javascript
-// My coding philosophy
-ios_base::sync_with_stdio(false);  
-cin.tie(NULL);
-console.log("Building tomorrow's solutions today! 🚀");
-```
+
 </div>
 
  
